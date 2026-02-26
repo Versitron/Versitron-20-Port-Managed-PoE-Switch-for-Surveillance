@@ -24,7 +24,7 @@ Most **Layer 2+ managed PoE+ switches** like the **SG72060MP** come with a web i
 3. Set **QoS priority** for voice and video traffic
 4. Monitor power consumption per port
 
-Need tips? See our [PoE+ installation guide](#tips-for-installing-poe+-network-switch) below.
+Need tips? See our PoE+ installation guide.
 
 ---
 
@@ -83,7 +83,7 @@ Looking for a **Cisco 20 port PoE switch alternative**? VERSITRON delivers unmat
 
 ## 💲 Buy PoE+ Switch with Lifetime Warranty – USA
 
-- **Buy PoE switch online** directly from [VERSITRON](https://www.versitron.com/products/sg72060mp-20-port-managed-poe-poe-plus-switch)
+- [Buy PoE switch online](https://www.versitron.com/products/sg72060mp-20-port-managed-poe-poe-plus-switch) directly from VERSITRON
 - Available across **USA, California, and North America**
 - Ideal for **industrial Ethernet**, **telecom**, **smart grids**, and **government networks**
 
@@ -107,14 +107,6 @@ If 16 ports are PoE+ capable and the total power budget is 300W, you can power u
 - Plan power load distribution across ports
 - Utilize VLAN for traffic separation
 - Connect fiber uplink via **SFP module**
-
----
-
-## 🧾 SG72060MP Datasheet and Resources
-
-- [Download VERSITRON SG72060MP Datasheet (PDF)](https://www.versitron.com/products/sg72060mp-20-port-managed-poe-poe-plus-switch)
-- [VERSITRON SG72060MP Reviews](https://www.versitron.com/testimonials)
-- [Compare PoE+ Switches – 2025 Top Picks](https://www.versitron.com/blog)
 
 ---
 
